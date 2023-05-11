@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:  #F7FFF6;
+}
+.tally{
+    margin:0;
+    text-align:center;
+    background-color: #F7FFF6;
+    color:#00584b;
+    vertical-align: middle;
+}
+
+.counter-count{
+    color:#81AE9D;
+    font-size: 45px;
+}
+
+
+
